@@ -1,6 +1,8 @@
 # Movix
 Online Movie suggestion website.
 
+Link :- https://lighthearted-pixie-5b09a5.netlify.app/
+
 Demo Screenshots:-
 ![Screenshot 2023-08-12 224214](https://github.com/Subhamvk/Movix/assets/92808887/fcc588eb-9fa3-4ab5-ada5-e3b31944e0e0)
 ![Screenshot 2023-08-12 224224](https://github.com/Subhamvk/Movix/assets/92808887/71fd3629-eb6c-41e8-aeed-fba513bb2844)
